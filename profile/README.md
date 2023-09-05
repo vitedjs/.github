@@ -8,9 +8,14 @@ Core:
 - @vited/create: template initialization
 
 Solutions:
+- Node
+  - @vited/runner-node
+  - @vited/template-node
+  - @vited/eslint-config-node
 - React
   - @vited/runner-react
   - @vited/template-react
+  - @vited/eslint-config-react
 - React Icon
   - @vited/runner-react-icon
   - @vited/template-react-icon
